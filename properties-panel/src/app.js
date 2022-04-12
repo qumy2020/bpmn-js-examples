@@ -7,6 +7,9 @@ import { BpmnPropertiesPanelModule, BpmnPropertiesProviderModule } from 'bpmn-js
 
 import diagramXML from '../resources/newDiagram.bpmn';
 
+// var customTranslate = {
+//   translate: [ 'value', require('./customTranslate/customTranslate') ]
+// };
 
 var container = $('#js-drop-zone');
 

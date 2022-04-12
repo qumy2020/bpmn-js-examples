@@ -36,9 +36,11 @@
   "dependencies": {
     "@bpmn-io/properties-panel": "^0.11.0",
     "bpmn-js": "^9.0.3",
-    "bpmn-js-properties-panel": "^1.0.0-alpha.5",
+    "bpmn-js-properties-panel": "^1.0.0-alpha.10",
+    "camunda-bpmn-moddle": "^6.1.2",
     "jquery": "^3.5.1",
-    "min-dash": "^3.7.0"
+    "min-dash": "^3.7.0",
+    "zeebe-bpmn-moddle": "^0.12.0"
   },
   "devDependencies": {
     "copy-webpack-plugin": "^7.0.0",
